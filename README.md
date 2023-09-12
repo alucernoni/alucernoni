@@ -14,9 +14,9 @@
 
 <h4>I'm currently working on:</h4>
 <ul>
- <li> :muscle: Data Structures and Algorithms to crush my technical interviews! </li>
- <li>  :four_leaf_clover: Personal Projects </li>
- <li>  :space_invader: Preparing for my first Hackathon </li>
+ <li>  :space_invader: Gameplay - a pre-MVP startup that aims to connect gamers on a social platform with AI recommendations </li>
+ <li> :muscle: Data Structures and Algorithms </li>
+ <li>  :four_leaf_clover: Personal Projects & Hackathons </li>
 </ul>
 
 <h4> :mailbox: If you want to collaborate or connect, reach me here! </h4>
@@ -47,11 +47,15 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="60" height="60"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60" />
+      <img width="60" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/>
+      <img width="60" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/>
+      <img width="60" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60" height="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="60" height="60"/>      
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60"/>
+	     <img width="60" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60"/>
 </div>
 
