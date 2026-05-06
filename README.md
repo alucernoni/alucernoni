@@ -1,6 +1,6 @@
 <h2 align= "center"> Hi there 👋 I'm Annemarie Lucernoni </h2>
 
-<h3 align="center"> I'm a full stack software engineer looking to join a new team!</h3>
+<h3 align="center"> I'm a full stack software engineer with 3 years of experience, and I'm looking to join a new team!</h3>
 
 <h4>About Me: </h4>
 <ul>
